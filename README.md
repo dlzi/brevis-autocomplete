@@ -1,13 +1,13 @@
 Brevis CSS Autocomplete
 =============
 
-Sublime Text 3 autocomplete plugin for Brevis CSS framework.
+Sublime Text 3 autocomplete plugin for Brevis CSS toolkit.
 
 ### Brevis
 
-Brevis is an immutable CSS framework designed for robust, high performance and scalable web applications.
+Brevis is a CSS toolkit designed for robust, high performance and scalable web applications.
 
-* Homepage: [https://github.com/dlzi/brevis](https://github.com/dlzi/brevis)
+* Homepage: [https://getbrevis.com](https://getbrevis.com)
 
 ### Installation
 
@@ -28,10 +28,10 @@ git clone https://github.com/dlzi/brevis-autocomplete.git
 
 **Note**: In order for the suggestions to appear, your document needs to have the syntax set to `HTML` (or any child syntax like `HTML (PHP)`). You can set the syntax from the menu *View > Syntax* or via the Command Palette.
 
-### Thanks to
+### Credit
 
-[webchun](https://github.com/webchun)
+Created based on [webchun](https://github.com/webchun) plugins.
 
 ### Copyright and license
 
-©2019 Daniel Zilli - code licensed [MIT](LICENSE), docs [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+©2019 Daniel Zilli - Code Licensed [MIT](LICENSE), Docs [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
