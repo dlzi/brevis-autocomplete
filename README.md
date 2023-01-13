@@ -1,7 +1,7 @@
 Brevis CSS Autocomplete
 =============
 
-Sublime Text 3 autocomplete plugin for Brevis CSS toolkit.
+Sublime Text 3/4 autocomplete plugin for Brevis CSS toolkit.
 
 ### Brevis
 
